@@ -1,5 +1,8 @@
 # Rastreador de Mouse com Identificador de Cores 🖱️🎨
 
+![image](https://github.com/GiulianoVianna/mouseinfo/assets/101942554/36829713-5fa1-4221-98b8-3c76248d8462)
+
+
 Este projeto é uma ferramenta desenvolvida em Python 🐍, utilizando a biblioteca PyQt5, que permite aos usuários rastrear o movimento do mouse em tempo real e identificar cores com um simples clique. Essa aplicação é particularmente útil para designers, desenvolvedores, e profissionais envolvidos com automação de input, facilitando a captura de cores na tela e a automatização de tarefas que dependem da posição do cursor e das cores nos pixels.
 
 ## Características Principais ✨
